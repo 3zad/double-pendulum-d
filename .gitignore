@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/double-pendulum-d
+double-pendulum-d.so
+double-pendulum-d.dylib
+double-pendulum-d.dll
+double-pendulum-d.a
+double-pendulum-d.lib
+double-pendulum-d-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

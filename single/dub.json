@@ -1,0 +1,1 @@
+{"libs" : ["raylib"], "lflags-posix" : ["-L."], "lflags-osx" : ["-rpath", "@executable_path/"], "lflags-linux" : ["-rpath=$$ORIGIN"], "description" : "Double pendulum simulation", "name" : "double-pendulum-d", "dependencies" : {"raylib-d" : "~>5.5.1"}, "authors" : ["zacharyalexander"], "copyright" : "Copyright © 2025, zacharyalexander", "license" : "proprietary"}
