@@ -24,7 +24,7 @@ class DoublePendulum {
     this(double length, double mass, double theta, double gravity) {
         this.l = length;
         this.m = mass;
-        this.t = t;
+        this.t = theta;
         this.g = gravity;
     }
 
